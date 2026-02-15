@@ -1,0 +1,4 @@
+project_id = "lxukvdqwnvlcoxxypxgg"
+
+[functions.fetch-charging-stations]
+verify_jwt = false
